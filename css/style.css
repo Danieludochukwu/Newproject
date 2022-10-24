@@ -23,11 +23,15 @@
      scroll-behavior: smooth;
 }
  body {
+     Margin: 0;
+     Padding: 0;
      color: #666666;
      font-size: 14px;
      font-family: 'poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     Width: 100%;
+     Height: 100%;
      overflow-x: hidden;
 }
  a {
